@@ -1,0 +1,57 @@
+body{
+    background-color: rgb(172, 172, 172) ;
+    height: 100%;
+    width: 100%;
+    
+}
+
+
+#father{
+
+
+    display: block;
+    margin: auto;
+    margin-top: 5%;
+    background-color: rgb(247, 247, 247);
+
+height: 40%;
+width: 50%;
+text-align: center;
+padding: 15px;
+
+box-shadow: 15px 15px 15px gray;
+
+
+}
+
+button{padding: 15px ;
+    margin-top: 5%;
+background-color: tomato;
+color: white;
+border: none;
+
+}
+
+h1{color:rgb(76, 147, 170);
+margin: auto;}
+
+#select{
+
+font-size: larger;
+padding: 5%;
+
+}
+
+button:hover{
+    background-color: rgb(253, 64, 31);
+    box-shadow: 2px 3px 9px  rgb(105, 105, 105);
+}
+
+#text{
+text-align: center;
+margin-top: 20px;
+padding: 3%;
+font-size: larger;
+font-family:Arial, Helvetica, sans-serif
+
+}
